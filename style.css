@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background: white;
+    font-size: 24px;
+    background: #D58936;
+    color: white;
+    padding: 10px;
+    margin: 30px auto 0 auto;
+    letter-spacing: 2px;
+}
+
+.learning-takeaways {
+    border: none;
+    padding-left: 0;
+    line-height: 25px;
+    margin: 30px 0 0 30px;
+}
+
+.learning-takeaways legend {
+    font-weight: bold;
+}
+
+.learning-takeaways label {
+    display: block;
+}
+
+.learning-takeaways input {
+    margin-right: 10px
+}
